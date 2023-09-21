@@ -1013,8 +1013,11 @@ video {
   --tw-brightness: brightness(.9);
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
+.link-artstation {
+  background-color: #494949;
+}
 .link-playstore {
-  background-color: #333;
+  background-color: #F7B500;
 }.link-appstore {
   background-color: #4583f7;
 }
