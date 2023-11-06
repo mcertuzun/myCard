@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
      { artstation = "https://mcertuzun.artstation.com/projects/Al4Dmy" },
      { playstore = "https://play.google.com/store/apps/dev?id=7276381215610288964&hl=en&gl=US" },
      { appstore = "https://apps.apple.com/us/developer/mehmet-can-ertuzun/id1513920658?see-all=i-phonei-pad-apps" },
-     { gitlab = "https://gitlab.com/mcertuzun" },
+     { github = "https://github.com/mcertuzun" },
      { linkedin = "https://www.linkedin.com/in/mcertuzun/" },
      { email = "mailto:mcertuzun@ygmail.com" },
 
